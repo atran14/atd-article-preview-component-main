@@ -1,0 +1,13 @@
+@use "../shared/styles/helpers" as *;
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    font-family: $ff-body;
+    font-size: $ff-body-font-size;
+    padding: 1rem 1rem;
+    
+    a {
+        color: hsl(228, 45%, 44%);
+    }
+}

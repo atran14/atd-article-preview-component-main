@@ -1,0 +1,12 @@
+@use "shared/styles/helpers" as *;
+
+.App {
+  background-color: $clr-blue-grayish-light;
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 5vh;
+  place-items: center;
+  font-family: $ff-body;
+  font-size: $ff-body-font-size;
+}
