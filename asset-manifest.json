@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atd-article-preview-component-main/static/css/main.4448be02.chunk.css",
+    "main.js": "/atd-article-preview-component-main/static/js/main.970a174e.chunk.js",
+    "main.js.map": "/atd-article-preview-component-main/static/js/main.970a174e.chunk.js.map",
+    "runtime-main.js": "/atd-article-preview-component-main/static/js/runtime-main.f3871141.js",
+    "runtime-main.js.map": "/atd-article-preview-component-main/static/js/runtime-main.f3871141.js.map",
+    "static/js/2.8d2151ee.chunk.js": "/atd-article-preview-component-main/static/js/2.8d2151ee.chunk.js",
+    "static/js/2.8d2151ee.chunk.js.map": "/atd-article-preview-component-main/static/js/2.8d2151ee.chunk.js.map",
+    "static/js/3.cb9ed62e.chunk.js": "/atd-article-preview-component-main/static/js/3.cb9ed62e.chunk.js",
+    "static/js/3.cb9ed62e.chunk.js.map": "/atd-article-preview-component-main/static/js/3.cb9ed62e.chunk.js.map",
+    "index.html": "/atd-article-preview-component-main/index.html",
+    "static/css/main.4448be02.chunk.css.map": "/atd-article-preview-component-main/static/css/main.4448be02.chunk.css.map",
+    "static/js/2.8d2151ee.chunk.js.LICENSE.txt": "/atd-article-preview-component-main/static/js/2.8d2151ee.chunk.js.LICENSE.txt",
+    "static/media/ArticlePreviewComponent.scss": "/atd-article-preview-component-main/static/media/drawers.631135b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3871141.js",
+    "static/js/2.8d2151ee.chunk.js",
+    "static/css/main.4448be02.chunk.css",
+    "static/js/main.970a174e.chunk.js"
+  ]
+}
